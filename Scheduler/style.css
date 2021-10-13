@@ -1,0 +1,13 @@
+
+      .jumbotron {
+        background-image: url("img/abe.jpg");
+        background-size: cover;
+      }
+
+      .modalinput {
+          width: 100%;
+      }
+
+      .modalbox {
+        padding: 3%;
+      }
